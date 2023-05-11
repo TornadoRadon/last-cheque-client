@@ -1,0 +1,16 @@
+.layout {
+    background-color: white;
+    padding: 96px 24px 16px 24px;
+}
+
+.top-nav {
+    width: 100%;
+    justify-content: center;
+    position: fixed;
+    background-color: white;
+    top: 0;
+    left: 0;
+    height: 72px;
+    z-index: 16;
+    box-shadow: 0px 1px 4px #ebebebbd;
+}
